@@ -1,8 +1,8 @@
-#**Proyect: Finding Lane Lines on the Road**
+# **Proyect: Finding Lane Lines on the Road**
 
 ---
 
-##**Overview**
+## **Overview**
 
 This is the first proyect of Nanodegree Self-Driving Car Engineer.
 
@@ -12,7 +12,7 @@ To do this, a pipeline is built with the steps that must be carried out to compl
 
 ---
 
-##**Software**
+## **Software**
 - *Python* as programming language.
 - *Jupiter* as programming environtment.
 - *OpenCV* as library of computer vision.
@@ -21,7 +21,7 @@ To do this, a pipeline is built with the steps that must be carried out to compl
 - *moviepy* as library to manage videos. 
 
 
-##**File List**
+## **File List**
 
 The project consists of the following files:
 
